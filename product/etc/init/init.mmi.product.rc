@@ -1,0 +1,17 @@
+on property:ro.vendor.hw.ram=6GB
+    setprop ro.MAX_HIDDEN_APPS 40
+    setprop ro.lowmemdetector.psi_low_stall_us 100000
+    setprop ro.lowmemdetector.psi_medium_stall_us 150000
+    setprop ro.lowmemdetector.psi_high_stall_us 200000
+on property:ro.vendor.hw.ram=8GB
+    setprop ro.MAX_HIDDEN_APPS 48
+    setprop ro.lowmemdetector.psi_low_stall_us 100000
+    setprop ro.lowmemdetector.psi_medium_stall_us 150000
+    setprop ro.lowmemdetector.psi_high_stall_us 200000
+on property:ro.vendor.hw.ram=12GB
+    setprop ro.MAX_HIDDEN_APPS 60
+    setprop ro.lowmemdetector.psi_low_stall_us 100000
+    setprop ro.lowmemdetector.psi_medium_stall_us 150000
+    setprop ro.lowmemdetector.psi_high_stall_us 200000
+on init
+    setprop ro.config.use_freezer false
