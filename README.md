@@ -1,0 +1,14 @@
+# user 12 S2RI32.32-20-9-9-2 1591b release-keys
+- manufacturer: motorola
+- platform: sm6150
+- codename: hanoip
+- flavor: user
+- release: 12
+- id: S2RI32.32-20-9-9-2
+- incremental: 1591b
+- tags: release-keys
+- fingerprint: motorola/hanoip_retail/hanoip:11/S2RI32.32-20-9-9-2/1591b:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-12-S2RI32.32-20-9-9-2-1591b-release-keys
+- repo: motorola_hanoip_dump
