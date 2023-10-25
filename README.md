@@ -1,0 +1,14 @@
+# user 12 S2RIS32.32-20-7-10 ab428 release-keys
+- manufacturer: motorola
+- platform: sm6150
+- codename: hanoip
+- flavor: user
+- release: 12
+- id: S2RIS32.32-20-7-10
+- incremental: ab428
+- tags: release-keys
+- fingerprint: motorola/hanoip_retail/hanoip:11/S2RIS32.32-20-7-10/ab428:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-12-S2RIS32.32-20-7-10-ab428-release-keys
+- repo: motorola_hanoip_dump
